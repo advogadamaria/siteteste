@@ -8,6 +8,8 @@
 header{
     background-color: black;
     color: aqua;
+    align-content: center;
+    display: inline-block;
 }
 .foto{
     width: 20%;
